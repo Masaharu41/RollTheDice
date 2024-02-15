@@ -1,6 +1,7 @@
 ﻿'OwenFujii
 'RCET 2265
 'Spring 2024
+'Roll of the Dice
 'https://github.com/Masaharu41/RollTheDice.git
 
 Option Explicit On
